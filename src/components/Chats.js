@@ -26,7 +26,7 @@ const Chats = () => {
         if(!user) {
             history.push('/');
         }
-        if(user) {
+        
         axios.get('https://api.chatengine.io/users/me', {
             headers: {
                 "project-id": process.env.REACT_APP_CHAT_ENGINE_ID,
@@ -56,8 +56,9 @@ const Chats = () => {
                     .catch((error) => console.log(error))
                 })
         })
-    }
+        
     }, [user, history]);
+
 
     if(!user || loading) return 'Loading...';
     
