@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mychatapp/static/css/main.37448acd.chunk.css",
-    "main.js": "/mychatapp/static/js/main.0277d64c.chunk.js",
-    "main.js.map": "/mychatapp/static/js/main.0277d64c.chunk.js.map",
+    "main.js": "/mychatapp/static/js/main.ba19768a.chunk.js",
+    "main.js.map": "/mychatapp/static/js/main.ba19768a.chunk.js.map",
     "runtime-main.js": "/mychatapp/static/js/runtime-main.ed09ef35.js",
     "runtime-main.js.map": "/mychatapp/static/js/runtime-main.ed09ef35.js.map",
     "static/css/2.ad76a385.chunk.css": "/mychatapp/static/css/2.ad76a385.chunk.css",
     "static/js/2.33232438.chunk.js": "/mychatapp/static/js/2.33232438.chunk.js",
     "static/js/2.33232438.chunk.js.map": "/mychatapp/static/js/2.33232438.chunk.js.map",
     "index.html": "/mychatapp/index.html",
-    "precache-manifest.1a7b865ef32c154f33f3c44f01f88202.js": "/mychatapp/precache-manifest.1a7b865ef32c154f33f3c44f01f88202.js",
+    "precache-manifest.59c5712516337fc87732a83867e257ad.js": "/mychatapp/precache-manifest.59c5712516337fc87732a83867e257ad.js",
     "service-worker.js": "/mychatapp/service-worker.js",
     "static/css/2.ad76a385.chunk.css.map": "/mychatapp/static/css/2.ad76a385.chunk.css.map",
     "static/css/main.37448acd.chunk.css.map": "/mychatapp/static/css/main.37448acd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.ad76a385.chunk.css",
     "static/js/2.33232438.chunk.js",
     "static/css/main.37448acd.chunk.css",
-    "static/js/main.0277d64c.chunk.js"
+    "static/js/main.ba19768a.chunk.js"
   ]
 }
